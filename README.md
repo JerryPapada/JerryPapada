@@ -1,6 +1,7 @@
 # Gerasimos Papanikolaou-Ntais
 
-AI/ML and Telecom research. Visiting Researcher @ IMDEA Networks, Spain.
+AI/ML and Telecom research. 
+Visiting Researcher @ IMDEA Networks, Spain.
 
 ## Areas of work
 
@@ -11,5 +12,4 @@ AI/ML and Telecom research. Visiting Researcher @ IMDEA Networks, Spain.
 
 ## Featured public project
 
-- [Wi-Fi AP Placement & Localization Data](https://github.com/JerryPapada/wifi-ap-placement-localization-data)
-- Wi-Fi access-point placement and localization data (EuCNC paper repository)
+- [Wi-Fi AP Placement & Localization Dataset creator & experiments](https://github.com/JerryPapada/wifi-ap-placement-localization-data)
