@@ -1,6 +1,6 @@
 # Gerasimos Papanikolaou-Ntais
 
-Software and research projects across wireless networking, geospatial applications, machine learning, and web systems.
+AI/ML and Telecom research. Visiting Researcher @ IMDEA Networks, Spain.
 
 ## Areas of work
 
