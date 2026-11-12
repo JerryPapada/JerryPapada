@@ -1,4 +1,4 @@
-# JerryPapada
+# Gerasimos Papanikolaou-Ntais
 
 Software and research projects across wireless networking, geospatial applications, machine learning, and web systems.
 
@@ -11,6 +11,5 @@ Software and research projects across wireless networking, geospatial applicatio
 
 ## Featured public project
 
-- [Wi-Fi AP Placement & Localization Data](https://github.com/JerryPapada/wifi-ap-placement-localization-data) — a public repository for Wi-Fi access-point placement and localization data.
-
-The repository list on this profile contains additional projects and experiments.
+- [Wi-Fi AP Placement & Localization Data](https://github.com/JerryPapada/wifi-ap-placement-localization-data)
+- Wi-Fi access-point placement and localization data (EuCNC paper repository)
