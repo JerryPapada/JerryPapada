@@ -1,7 +1,6 @@
 # Gerasimos Papanikolaou-Ntais
 
 AI/ML and Telecom research. 
-Visiting Researcher @ IMDEA Networks, Spain.
 
 ## Areas of work
 
